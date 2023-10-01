@@ -1,0 +1,87 @@
+{
+  "id": "jean-homebrew",
+  "title": "Jean Homebrew",
+  "version": "1.0.0",
+  "description": "Jean's allowed homebrew",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "SnowRanger",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "classes",
+      "label": "Classes",
+      "path": "packs/classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "subclasses",
+      "label": "Subclasses",
+      "path": "packs/subclasses",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "path": "packs/spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "feats",
+      "label": "Feats",
+      "path": "packs/feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
