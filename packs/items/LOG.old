@@ -1,7 +1,23 @@
-2023/10/01-13:28:36.994 1238 Recovering log #8
-2023/10/01-13:28:36.999 1238 Delete type=0 #8
-2023/10/01-13:28:36.999 1238 Delete type=3 #6
-2023/10/01-19:55:51.634 4d2c Level-0 table #13: started
-2023/10/01-19:55:51.646 4d2c Level-0 table #13: 450 bytes OK
-2023/10/01-19:55:51.648 4d2c Delete type=0 #11
-2023/10/01-19:55:51.651 4d2c Manual compaction at level-0 from '!folders!v5TThFJRbRamMMS1' @ 72057594037927935 : 1 .. '!folders!v5TThFJRbRamMMS1' @ 0 : 0; will stop at (end)
+2023/10/02-19:30:53.557 5150 Recovering log #15
+2023/10/02-19:30:53.557 5150 Level-0 table #17: started
+2023/10/02-19:30:53.560 5150 Level-0 table #17: 13086 bytes OK
+2023/10/02-19:30:53.563 5150 Delete type=0 #15
+2023/10/02-19:30:53.564 5150 Delete type=3 #14
+2023/10/02-20:31:46.671 b6c Level-0 table #20: started
+2023/10/02-20:31:46.672 b6c Level-0 table #20: 0 bytes OK
+2023/10/02-20:31:46.672 b6c Delete type=0 #18
+2023/10/02-20:31:46.685 b6c Manual compaction at level-0 from '!folders!Ecj2OWhjae2RNeSc' @ 72057594037927935 : 1 .. '!items!y3nH78bm6PyDUkE2' @ 0 : 0; will stop at '!items!y3nH78bm6PyDUkE2' @ 19 : 1
+2023/10/02-20:31:46.685 b6c Compacting 1@0 + 0@1 files
+2023/10/02-20:31:46.692 b6c Generated table #21@0: 4 keys, 1982 bytes
+2023/10/02-20:31:46.692 b6c Compacted 1@0 + 0@1 files => 1982 bytes
+2023/10/02-20:31:46.693 b6c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/02-20:31:46.693 b6c Delete type=2 #17
+2023/10/02-20:31:46.701 b6c Manual compaction at level-0 from '!items!y3nH78bm6PyDUkE2' @ 19 : 1 .. '!items!y3nH78bm6PyDUkE2' @ 0 : 0; will stop at (end)
+2023/10/02-20:31:46.709 b6c Manual compaction at level-1 from '!folders!Ecj2OWhjae2RNeSc' @ 72057594037927935 : 1 .. '!items!y3nH78bm6PyDUkE2' @ 0 : 0; will stop at '!items!y3nH78bm6PyDUkE2' @ 24 : 1
+2023/10/02-20:31:46.709 b6c Compacting 1@1 + 1@2 files
+2023/10/02-20:31:46.722 b6c Generated table #22@1: 5 keys, 2073 bytes
+2023/10/02-20:31:46.722 b6c Compacted 1@1 + 1@2 files => 2073 bytes
+2023/10/02-20:31:46.724 b6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/02-20:31:46.724 b6c Delete type=2 #13
+2023/10/02-20:31:46.724 b6c Delete type=2 #21
+2023/10/02-20:31:46.725 b6c Manual compaction at level-1 from '!items!y3nH78bm6PyDUkE2' @ 24 : 1 .. '!items!y3nH78bm6PyDUkE2' @ 0 : 0; will stop at (end)
