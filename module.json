@@ -1,7 +1,7 @@
 {
   "id": "Jean-Homebrew-V11",
   "title": "Jean Homebrew V11",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Jean's allowed homebrew",
   "compatibility": {
     "minimum": "11",
