@@ -1,21 +1,5 @@
-2024/01/10-15:38:33.730 4d68 Recovering log #50
-2024/01/10-15:38:33.734 4d68 Delete type=0 #50
-2024/01/10-15:38:33.734 4d68 Delete type=3 #48
-2024/01/10-15:49:21.062 914 Level-0 table #54: started
-2024/01/10-15:49:21.062 914 Level-0 table #54: 0 bytes OK
-2024/01/10-15:49:21.063 914 Delete type=0 #52
-2024/01/10-15:49:21.066 914 Manual compaction at level-0 from '!folders!1SuH0M3frZtJ1Rdb' @ 72057594037927935 : 1 .. '!items.effects!q0XjmOuPUTFUY16D.vFXRpRbWVKkLBt6o' @ 0 : 0; will stop at '!items.effects!n01zqI0VT5dgzr1f.CuFp3cfC3VyGP8Jq' @ 1044 : 1
-2024/01/10-15:49:21.066 914 Compacting 1@0 + 0@1 files
-2024/01/10-15:49:21.069 914 Generated table #55@0: 74 keys, 59536 bytes
-2024/01/10-15:49:21.069 914 Compacted 1@0 + 0@1 files => 59536 bytes
-2024/01/10-15:49:21.070 914 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/01/10-15:49:21.070 914 Delete type=2 #49
-2024/01/10-15:49:21.071 914 Manual compaction at level-0 from '!items.effects!n01zqI0VT5dgzr1f.CuFp3cfC3VyGP8Jq' @ 1044 : 1 .. '!items.effects!q0XjmOuPUTFUY16D.vFXRpRbWVKkLBt6o' @ 0 : 0; will stop at (end)
-2024/01/10-15:49:21.071 914 Manual compaction at level-1 from '!folders!1SuH0M3frZtJ1Rdb' @ 72057594037927935 : 1 .. '!items.effects!q0XjmOuPUTFUY16D.vFXRpRbWVKkLBt6o' @ 0 : 0; will stop at '!items.effects!n01zqI0VT5dgzr1f.CuFp3cfC3VyGP8Jq' @ 1044 : 1
-2024/01/10-15:49:21.071 914 Compacting 1@1 + 1@2 files
-2024/01/10-15:49:21.077 914 Generated table #56@1: 190 keys, 146752 bytes
-2024/01/10-15:49:21.077 914 Compacted 1@1 + 1@2 files => 146752 bytes
-2024/01/10-15:49:21.078 914 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/01/10-15:49:21.078 914 Delete type=2 #45
-2024/01/10-15:49:21.078 914 Delete type=2 #55
-2024/01/10-15:49:21.082 914 Manual compaction at level-1 from '!items.effects!n01zqI0VT5dgzr1f.CuFp3cfC3VyGP8Jq' @ 1044 : 1 .. '!items.effects!q0XjmOuPUTFUY16D.vFXRpRbWVKkLBt6o' @ 0 : 0; will stop at (end)
+2024/01/22-22:45:44.447 998 Recovering log #58
+2024/01/22-22:45:44.447 998 Level-0 table #60: started
+2024/01/22-22:45:44.450 998 Level-0 table #60: 10438 bytes OK
+2024/01/22-22:45:44.453 998 Delete type=0 #58
+2024/01/22-22:45:44.453 998 Delete type=3 #57
