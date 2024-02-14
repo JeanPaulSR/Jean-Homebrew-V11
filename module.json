@@ -1,7 +1,7 @@
 {
   "id": "Jean-Homebrew-V11",
   "title": "Jean Homebrew V11",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Jean's allowed homebrew",
   "compatibility": {
     "minimum": "11",
@@ -24,7 +24,7 @@
   "packs": [
     {
       "name": "classes",
-      "label": "Classes",
+      "label": "JH - Classes",
       "path": "packs/classes",
       "type": "Item",
       "system": "dnd5e",
@@ -35,7 +35,7 @@
     },
     {
       "name": "subclasses",
-      "label": "Subclasses",
+      "label": "JH - Subclasses",
       "path": "packs/subclasses",
       "type": "Item",
       "system": "dnd5e",
@@ -46,7 +46,7 @@
     },
     {
       "name": "spells",
-      "label": "Spells",
+      "label": "JH -Spells",
       "path": "packs/spells",
       "type": "Item",
       "system": "dnd5e",
@@ -57,7 +57,7 @@
     },
     {
       "name": "feats",
-      "label": "Feats",
+      "label": "JH - Feats",
       "path": "packs/feats",
       "type": "Item",
       "system": "dnd5e",
@@ -68,7 +68,7 @@
     },
     {
       "name": "items",
-      "label": "Items",
+      "label": "JH - Items",
       "path": "packs/items",
       "type": "Item",
       "system": "dnd5e",
@@ -79,7 +79,7 @@
     },
     {
       "name": "monsters",
-      "label": "Monsters",
+      "label": "JH - Monsters",
       "path": "packs/monsters",
       "type": "Actor",
       "system": "dnd5e",
@@ -90,14 +90,14 @@
     },
     {
       "name": "races",
-      "label": "Races",
+      "label": "JH - Races",
       "path": "packs/races",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "url": "https://github.com/JeanPaulSR/Jean-Homebrew-V11",
