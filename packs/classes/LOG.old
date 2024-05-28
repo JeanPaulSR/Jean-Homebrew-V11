@@ -1,15 +1,12 @@
-2024/02/14-23:18:31.404 5ec4 Recovering log #138
-2024/02/14-23:18:31.407 5ec4 Delete type=0 #138
-2024/02/14-23:18:31.407 5ec4 Delete type=3 #135
-2024/02/15-00:34:12.246 28c Level-0 table #145: started
-2024/02/15-00:34:12.267 28c Level-0 table #145: 188211 bytes OK
-2024/02/15-00:34:12.268 28c Delete type=0 #143
-2024/02/15-00:34:12.271 28c Manual compaction at level-0 from '!folders!2YQaaRfCeft1QdOe' @ 72057594037927935 : 1 .. '!items.effects!v8VCsxn2kOad1KJZ.lRokyCt3Lpv1wpq5' @ 0 : 0; will stop at (end)
-2024/02/15-00:34:12.271 28c Manual compaction at level-1 from '!folders!2YQaaRfCeft1QdOe' @ 72057594037927935 : 1 .. '!items.effects!v8VCsxn2kOad1KJZ.lRokyCt3Lpv1wpq5' @ 0 : 0; will stop at '!items.effects!RrmD7YovGv2j8O9t.xIvb2pe9xlOHF3WF' @ 5683 : 1
-2024/02/15-00:34:12.271 28c Compacting 1@1 + 1@2 files
-2024/02/15-00:34:12.285 28c Generated table #146@1: 701 keys, 604751 bytes
-2024/02/15-00:34:12.285 28c Compacted 1@1 + 1@2 files => 604751 bytes
-2024/02/15-00:34:12.286 28c compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/02/15-00:34:12.286 28c Delete type=2 #141
-2024/02/15-00:34:12.286 28c Delete type=2 #145
-2024/02/15-00:34:12.289 28c Manual compaction at level-1 from '!items.effects!RrmD7YovGv2j8O9t.xIvb2pe9xlOHF3WF' @ 5683 : 1 .. '!items.effects!v8VCsxn2kOad1KJZ.lRokyCt3Lpv1wpq5' @ 0 : 0; will stop at (end)
+2024/05/27-12:53:20.781 6220 Recovering log #172
+2024/05/27-12:53:20.783 6220 Level-0 table #174: started
+2024/05/27-12:53:20.803 6220 Level-0 table #174: 505864 bytes OK
+2024/05/27-12:53:20.807 6220 Delete type=0 #172
+2024/05/27-12:53:20.807 6220 Delete type=3 #171
+2024/05/27-13:13:02.761 5c88 Moved #174 to level-1 505864 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2024/05/27-13:22:16.473 5c88 Compacting 1@1 + 1@2 files
+2024/05/27-13:22:16.491 5c88 Generated table #176@1: 740 keys, 641470 bytes
+2024/05/27-13:22:16.491 5c88 Compacted 1@1 + 1@2 files => 641470 bytes
+2024/05/27-13:22:16.492 5c88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/27-13:22:16.492 5c88 Delete type=2 #170
+2024/05/27-13:22:16.492 5c88 Delete type=2 #174
