@@ -1,5 +1,5 @@
-2024/05/27-12:53:20.927 4b7c Recovering log #129
-2024/05/27-12:53:20.927 4b7c Level-0 table #131: started
-2024/05/27-12:53:20.929 4b7c Level-0 table #131: 9676 bytes OK
-2024/05/27-12:53:20.932 4b7c Delete type=0 #129
-2024/05/27-12:53:20.932 4b7c Delete type=3 #128
+2024/06/02-18:43:43.236 647c Recovering log #134
+2024/06/02-18:43:43.237 647c Level-0 table #136: started
+2024/06/02-18:43:43.240 647c Level-0 table #136: 29916 bytes OK
+2024/06/02-18:43:43.246 647c Delete type=0 #134
+2024/06/02-18:43:43.246 647c Delete type=3 #133
